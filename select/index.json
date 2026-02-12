@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "モブじゃねえ",
+  "base_artist": "DYES IWASAKI",
+  "createdAt": "2026-02-12T07:51:55.066633Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モブじゃねえ (feat.ill.bell)",
+      "artist": "DYES IWASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_モブじゃねえ_(feat.ill.bell)_DYES_IWASAKI.txt"
+    }
+  ]
+}
